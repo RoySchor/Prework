@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/tcbQlfY.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](http://www.ezgif.com).
 
 ## Notes
 
